@@ -1,0 +1,16 @@
+body{
+    background-color: aliceblue;
+    font-family: 'Times New Roman', Times, serif
+}
+.txt1{
+    margin:  240px;
+    
+    padding: 50px;
+    padding-left: 20px;
+    padding-right: 5px;
+    
+}
+.link1{
+    text-decoration: none;
+    color: black;
+}
